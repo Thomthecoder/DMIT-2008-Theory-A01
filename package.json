@@ -3,9 +3,9 @@
   "version": "0.2.0",
   "private": true,
   "scripts": {
-    "predev": "pnpm unocss:build",
-    "dev": "concurrently \"pnpm unocss:watch\" \"next dev\"",
-    "prebuild": "pnpm unocss:build",
+    "predev": "npm run unocss:build",
+    "dev": "concurrently \"npm run unocss:watch\" \"next dev\"",
+    "prebuild": "npm run unocss:build",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",

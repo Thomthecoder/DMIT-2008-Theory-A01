@@ -1,6 +1,6 @@
 # Theory 2
 
-> Student Name: **TAFADZWA THOMAS MAGUTA**
+> Student Name: **Tafadzwa Thomas Maguta** | GitHub: [Thomthecoder](https://github.com/Thomthecoder)
 
 ![Website Screenshot](./docs/images/preview.png)
 
