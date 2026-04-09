@@ -1,6 +1,6 @@
 # Theory 2
 
-> Student Name: **YOUR_NAME**
+> Student Name: **TAFADZWA THOMAS MAGUTA**
 
 ![Website Screenshot](./docs/images/preview.png)
 
