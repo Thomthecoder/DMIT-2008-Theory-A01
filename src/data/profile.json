@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Tafadzwa Thomas Maguta - Computer Software Development Student",
-    "description": "I'm a Computer Software Development student at NAIT in Edmonton, AB. I love creating things from nothing — whether for fun or professionally.",
+    "title": "Tafadzwa Thomas Maguta  Computer Software Development Student",
+    "description": "I'm a Computer Software Development student at NAIT in Edmonton, AB. I love creating things from nothing whether for fun or professionally.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
@@ -26,7 +26,7 @@
   "intro": {
     "welcomeLabel": "welcome",
     "name": "Tafadzwa Thomas Maguta",
-    "summary": "a 21-year-old Computer Software Development student at NAIT who codes for fun and for work — passionate about creating something from nothing",
+    "summary": "a 21-year-old Computer Software Development student at NAIT who codes for fun and for work passionate about creating something from nothing",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
@@ -65,7 +65,7 @@
       "Bootstrap",
       "Git"
     ],
-    "passion": "I enjoy creating something from a thought or nothing at all — that drive applies whether I'm building for fun or for a client.",
+    "passion": "I enjoy creating something from a thought or nothing at all that drive applies whether I'm building for fun or for a client.",
     "approach": "I approach every project with curiosity and a focus on doing it right, choosing the best tool for the job whether it's on my usual list or not."
   },
   "contacts": {
@@ -87,7 +87,7 @@
   },
   "timeZone": {
     "title": "Time zone",
-    "zone": "America/Edmonton"
+    "zone": "Edmonton"
   },
   "now": {
     "title": "Now",
